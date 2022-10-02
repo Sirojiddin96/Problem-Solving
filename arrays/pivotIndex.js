@@ -27,3 +27,8 @@ function app(nums) {
 }
 let nums = [1, 7, 3, 6, 5, 6]
 console.log(app(nums));;
+
+/**
+* @param {number[]} arr
+* @return {number[]}
+*/
